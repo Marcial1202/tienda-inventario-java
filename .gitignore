@@ -1,0 +1,13 @@
+# Carpetas generadas automáticamente por NetBeans
+/construir/
+/dist/
+
+# Parte privada de configuración del proyecto (si existe)
+proyecto nb/private/
+proyecto nb/*-private.xml
+
+# Archivos compilados de Java
+*.class
+
+# Archivos temporales
+*.log
